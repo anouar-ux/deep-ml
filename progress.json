@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-23T16:57:38.153Z",
+  "generated_at": "2026-10-23T16:57:39.996Z",
   "items": {
     "problem:83": {
       "kind": "problem",
@@ -140,7 +140,7 @@
       "url": "https://www.deep-ml.com/math-problems/30",
       "path": "math/0030-ml-workflow-basics",
       "first_solved_at": "2026-10-21T23:28:08.959Z",
-      "last_pushed_at": "2026-10-21T23:28:08.959Z"
+      "last_pushed_at": "2026-10-23T16:57:39.994Z"
     },
     "math:34": {
       "kind": "math",
@@ -151,7 +151,7 @@
       "url": "https://www.deep-ml.com/math-problems/34",
       "path": "math/0034-least-squares-and-the-normal-equations",
       "first_solved_at": "2026-10-22T00:00:53.568Z",
-      "last_pushed_at": "2026-10-22T00:00:53.568Z"
+      "last_pushed_at": "2026-10-23T16:57:39.994Z"
     },
     "math:1": {
       "kind": "math",
@@ -162,7 +162,7 @@
       "url": "https://www.deep-ml.com/math-problems/1",
       "path": "math/0001-derivatives-and-gradients",
       "first_solved_at": "2026-10-22T00:01:59.487Z",
-      "last_pushed_at": "2026-10-22T00:01:59.487Z"
+      "last_pushed_at": "2026-10-23T16:57:39.994Z"
     },
     "math:5": {
       "kind": "math",
@@ -173,7 +173,7 @@
       "url": "https://www.deep-ml.com/math-problems/5",
       "path": "math/0005-gradient-descent-updates",
       "first_solved_at": "2026-10-22T00:04:13.167Z",
-      "last_pushed_at": "2026-10-22T00:04:13.167Z"
+      "last_pushed_at": "2026-10-23T16:57:39.994Z"
     },
     "math:18": {
       "kind": "math",
@@ -184,7 +184,7 @@
       "url": "https://www.deep-ml.com/math-problems/18",
       "path": "math/0018-descriptive-statistics",
       "first_solved_at": "2026-10-22T00:05:14.986Z",
-      "last_pushed_at": "2026-10-22T00:05:14.986Z"
+      "last_pushed_at": "2026-10-23T16:57:39.995Z"
     },
     "math:33": {
       "kind": "math",
@@ -195,7 +195,7 @@
       "url": "https://www.deep-ml.com/math-problems/33",
       "path": "math/0033-expectation-and-variance-algebra",
       "first_solved_at": "2026-10-22T00:07:22.801Z",
-      "last_pushed_at": "2026-10-22T00:07:22.801Z"
+      "last_pushed_at": "2026-10-23T16:57:39.995Z"
     }
   }
 }
