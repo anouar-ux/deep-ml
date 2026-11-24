@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**19** solved · 13 problems · 0 labs · 6 math
+**20** solved · 13 problems · 0 labs · 7 math
 
 ![Coverage](./coverage.svg)
 
@@ -36,6 +36,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Gradient Descent Updates](https://www.deep-ml.com/math-problems/5) | easy | 2026-10-22 | [solution](math/0005-gradient-descent-updates) |
 | [ML Workflow Basics](https://www.deep-ml.com/math-problems/30) | easy | 2026-10-21 | [solution](math/0030-ml-workflow-basics) |
 | [Least Squares and the Normal Equations](https://www.deep-ml.com/math-problems/34) | medium | 2026-10-22 | [solution](math/0034-least-squares-and-the-normal-equations) |
+| [Vector Norms and Linear Independence](https://www.deep-ml.com/math-problems/8) | medium | 2026-11-24 | [solution](math/0008-vector-norms-and-linear-independence) |
 
 ---
 
